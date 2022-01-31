@@ -18,8 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on java, javascript
 - 👯 I’m looking to collaborate
 - 📫 How to reach me: 
-- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/satyendra-kotiya"
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/satyendra-kotiya/)
 - 😄 Pronouns: him
