@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on java, javascript
+- 👯 I’m looking to collaborate
+- 📫 How to reach me: 
+- [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/satyendra-kotiya"
+- 😄 Pronouns: him
