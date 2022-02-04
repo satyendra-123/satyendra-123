@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on java, javascript
+- 🔭 I’m currently ............ application development :computer:. 
 - 👯 I’m looking to collaborate
 - 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/satyendra-kotiya/)
